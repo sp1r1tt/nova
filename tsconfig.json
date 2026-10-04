@@ -14,8 +14,7 @@
     "isolatedModules": true,
     "moduleDetection": "force",
     "allowJs": true,
-    "jsx": "react-jsx",
-    "baseUrl": ".",
+    "jsx": "preserve",
     "paths": {
       "@/*": ["./*"]
     },
