@@ -1,5 +1,5 @@
 import React from 'react';
-import '@/app/globals.css';
+import './globals.css';
 
 export const metadata = {
   title: 'NOVA — AI-Создатели | Четыре цифровые личности',
